@@ -1,0 +1,12 @@
+{
+  "name": "bidu-perf-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "devbridge-perf-tool": "^0.1.38",
+    "gulp": "^3.9.1"
+  }
+}
