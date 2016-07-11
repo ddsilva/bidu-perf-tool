@@ -27,7 +27,7 @@ var gulp = require('gulp'),
 
 gulp.task('perf-tool', function () {
   perfTool.performance({
-    siteURL: 'http://www.bidu.com.br',
+    siteURL: 'https://www.bidu.com.br',
     sitePages: SITE_PAGES
   });
 });
