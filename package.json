@@ -6,7 +6,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "devbridge-perf-tool": "^0.1.38",
+    "devbridge-perf-tool": "^0.1.39",
     "gulp": "^3.9.1"
   }
 }
